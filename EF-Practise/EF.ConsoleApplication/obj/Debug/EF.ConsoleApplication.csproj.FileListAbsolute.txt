@@ -1,0 +1,14 @@
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EF.ConsoleApplication.exe.config
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EF.ConsoleApplication.exe
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EF.ConsoleApplication.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\Data.Access.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\Domain.Classes.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\Data.Access.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\Domain.Classes.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\obj\Debug\EF.ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\obj\Debug\EF.ConsoleApplication.exe
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\EF.ConsoleApplication\obj\Debug\EF.ConsoleApplication.pdb

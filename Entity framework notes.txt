@@ -1,3 +1,9 @@
+
+----------------
+install-package EntityFramework
+-- To install EntityFramework in a project
+--------------
+
 enable-migrations
 -- create a database at first 
 

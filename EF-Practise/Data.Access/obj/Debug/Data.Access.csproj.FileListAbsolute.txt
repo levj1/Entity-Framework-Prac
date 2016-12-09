@@ -1,0 +1,14 @@
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\Data.Access.dll.config
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\Data.Access.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\Data.Access.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\Domain.Classes.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\EntityFramework.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\Domain.Classes.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\EntityFramework.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\obj\Debug\Data.Access.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\obj\Debug\Data.Access.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\obj\Debug\Data.Access.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\obj\Debug\Data.Access.Migrations.initialMigration.resources
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Data.Access\obj\Debug\Data.Access.csproj.GenerateResource.Cache

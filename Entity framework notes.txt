@@ -1,0 +1,14 @@
+enable-migrations
+-- create a database at first 
+
+
+add-migration "name of migration"
+-- add classes
+
+update-database -verbose
+-- update to latest migration
+-- the verbose parameter show the steps of the migration
+-- keep track of migration by creation migration history
+
+update-database -script
+-- Create the script that will update the migration

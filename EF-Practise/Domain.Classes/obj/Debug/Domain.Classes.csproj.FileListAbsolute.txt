@@ -1,0 +1,10 @@
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\Domain.Classes.dll.config
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\Domain.Classes.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\Domain.Classes.pdb
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\EntityFramework.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\EntityFramework.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\obj\Debug\Domain.Classes.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\obj\Debug\Domain.Classes.dll
+C:\Users\James Leveille\Documents\GitHub\EF\EF-Practise\Domain.Classes\obj\Debug\Domain.Classes.pdb
